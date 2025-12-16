@@ -1,0 +1,15 @@
+{
+  "name": "Orbital Particles",
+  "short_name": "Orbital",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#020617",
+  "icons": [
+    {
+      "src": "https://cdn.jsdelivr.net/npm/lucide-static@0.469.0/icons/atom.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
