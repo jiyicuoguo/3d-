@@ -1,0 +1,5 @@
+{
+  "name": "Orbital Particles",
+  "description": "An interactive 3D particle orbit simulation with customizable physics and visuals.",
+  "requestFramePermissions": []
+}
